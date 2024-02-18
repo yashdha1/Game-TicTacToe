@@ -1,5 +1,3 @@
-Title: Tic Tac Toe
-Author: Yash Dhadod
+# Tic Tac Toe
 
-[Game Data]
-# Add your existing Tic-Tac-Toe game data here
+Yash Dhadod
