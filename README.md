@@ -1,3 +1,3 @@
 # Tic Tac Toe
 
-Yash Dhadod
+## Author : Yash Dhadod
